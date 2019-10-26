@@ -1,6 +1,8 @@
 <template>
   <div>
     <p>Hello, World!</p>
+    <github-input></github-input>
+    <github-output></github-output>
   </div>
 </template>
 
